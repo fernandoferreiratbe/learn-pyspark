@@ -37,3 +37,13 @@ $ jupyter-lab
 
 Note: All those steps were executed on Mac OS 
 
+
+### Interactive Python NoteBook files
+
+PySpark-Get-Started.ipynb - *First interactive Python Notebook* 
+
+Alura-PySpark-Course-Intro.ipynb - *Create first session and says to computer to use all cpus available* 
+
+Alura-PySpark-Course-Loading-Data.ipynb - *Create the first data frame of the course*
+
+Alura-PySpark-DataFrame-Creation.ipynb - *Contains the necessary code to create three valid data frames and one invalid data frame*
