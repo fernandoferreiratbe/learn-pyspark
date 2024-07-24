@@ -47,3 +47,4 @@ Alura-PySpark-Course-Intro.ipynb - *Create first session and says to computer to
 Alura-PySpark-Course-Loading-Data.ipynb - *Create the first data frame of the course*
 
 Alura-PySpark-DataFrame-Creation.ipynb - *Contains the necessary code to create three valid data frames and one invalid data frame*
+
