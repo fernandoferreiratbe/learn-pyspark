@@ -42,9 +42,14 @@ Note: All those steps were executed on Mac OS
 
 PySpark-Get-Started.ipynb - *First interactive Python Notebook* 
 
-Alura-PySpark-Course-Intro.ipynb - *Create first session and says to computer to use all cpus available* 
+Alura-PySpark-I-Course-Intro.ipynb - *Create first session and says to computer to use all cpus available* 
 
-Alura-PySpark-Course-Loading-Data.ipynb - *Create the first data frame of the course*
+Alura-PySpark-II-Course-Loading-Data.ipynb - *Create the first data frame of the course*
 
-Alura-PySpark-DataFrame-Creation.ipynb - *Contains the necessary code to create three valid data frames and one invalid data frame*
+Alura-PySpark-III-DataFrame-Creation.ipynb - *Contains the necessary code to create three valid data frames and one invalid data frame*
+
+Alura-PySpark-IV-Data-From-ReceitaFederal.ipynb - *Unzip file and load data from csv file*
+
+Alura-PySpark-V-Data-Handler.ipynb - *Rename columns of the data frame*
+
 
