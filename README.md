@@ -52,4 +52,4 @@ Alura-PySpark-IV-Data-From-ReceitaFederal.ipynb - *Unzip file and load data from
 
 Alura-PySpark-V-Data-Handler.ipynb - *Rename columns of the data frame*
 
-
+Alura-PySpark-VI-Casting.ipynb - *Apply casting to DoubleType, StringType and DateType
