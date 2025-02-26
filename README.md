@@ -56,3 +56,7 @@ Alura-PySpark-VI-Casting.ipynb - *Apply casting to DoubleType, StringType and Da
 
 Alura-PySpark-VII-Select.ipynb - *Select columns from dataframe*
 
+Alura-PySpark-VIII-IsNull-IsNaN.ipynb - *Handle null and not a number values*
+
+Alura-PySpark-IX-OrderBy.ipynb - *Sorting dataframes by columns*
+
